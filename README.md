@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @piyushgarg0501
 - 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Cloud Computing
-- 💞️ I’m looking to collaborate on Cloud Related Projects
+- 🌱 I’m currently learning Cyber Security
+- 💞️ I’m looking to collaborate on Security Related Projects
 - 📫 How to reach me https://www.linkedin.com/in/piyushgarg0501/
 
 <!---
