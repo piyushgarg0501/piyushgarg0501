@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyushgarg0501
 - 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning Advances Excel & Visualization
+- 🌱 I’m currently learning Advance Excel & Visualization (Power BI, Tableau)
 - 💞️ I’m looking to collaborate on Analytical Related Projects
 - 📫 How to reach me https://www.linkedin.com/in/piyushgarg0501/
 
